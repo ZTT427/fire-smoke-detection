@@ -1,0 +1,8 @@
+path: D:/projects/fire-smoke-detection
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: flame
+  1: smoke
